@@ -36,5 +36,10 @@
   "bugs": {
     "url": "https://github.com/IonicaBizau/img-ssim/issues"
   },
-  "homepage": "https://github.com/IonicaBizau/img-ssim#readme"
+  "homepage": "https://github.com/IonicaBizau/img-ssim#readme",
+  "dependencies": {
+    "image-parser": "^1.2.0",
+    "same-time": "^2.3.1",
+    "ul": "^5.2.9"
+  }
 }
