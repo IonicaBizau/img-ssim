@@ -3,7 +3,7 @@
     "test": "node test/index.js"
   },
   "name": "img-ssim",
-  "description": "Get the SSIM similarity between two images.",
+  "description": "Get the structural similarity between two images.",
   "keywords": [
     "img",
     "ssim",
@@ -44,5 +44,8 @@
   },
   "devDependencies": {
     "tester": "^1.3.7"
+  },
+  "blah": {
+    "h_img": "http://i.imgur.com/tXlhphU.png"
   }
 }
