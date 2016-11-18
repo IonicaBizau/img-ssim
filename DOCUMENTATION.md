@@ -1,4 +1,5 @@
 ## Documentation
+
 You can see below the API reference of this module.
 
 ### `imgSsim(source, target, options, cb)`

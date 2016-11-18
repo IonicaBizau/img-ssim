@@ -41,6 +41,7 @@ imgSSIM(
 
 ## :memo: Documentation
 
+
 ### `imgSsim(source, target, options, cb)`
 Get the structural similarity between two images.
 
