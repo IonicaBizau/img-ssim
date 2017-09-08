@@ -8,6 +8,7 @@ Get the structural similarity between two images.
 The `ssim` result will be a value between `0` and `1`. The more similar the images are, the higher the value will be.
 
 #### Params
+
 - **String** `source`: The first image path (local path or url).
 - **String** `target`: The second image path (local path or url).
 - **Object** `options`: An object containing the following fields:
